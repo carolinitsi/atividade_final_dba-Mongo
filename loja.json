@@ -1,0 +1,66 @@
+[
+  {
+    "_id": "63068f3b907ce7d52858201f",
+    "id_prod": 132,
+    "nome": "SmartTV LG 8K 5G 50\"",
+    "descricao": "SmartTV LG model LG5020228K5G",
+    "importado": true,
+    "preco": 18500,
+    "qtd_estoque": 150
+  },
+  {
+    "_id": "63068f3b907ce7d528582020",
+    "id_prod": 133,
+    "nome": "SmartTV LG 8K 5G 60\"",
+    "descricao": "SmartTV LG model LG6020228K5G",
+    "importado": true,
+    "preco": 20500,
+    "qtd_estoque": 150
+  },
+  {
+    "_id": "63068f3b907ce7d528582021",
+    "id_prod": 134,
+    "nome": "SmartTV LG 8K 5G 70\"",
+    "descricao": "SmartTV LG model LG7020228K5G",
+    "importado": true,
+    "preco": 23500,
+    "qtd_estoque": 150
+  },
+  {
+    "_id": "63068f3b907ce7d528582022",
+    "id_prod": 135,
+    "nome": "SmartTV SAMSUMG 8K 5G 45\"",
+    "descricao": "SmartTV SAMSUMG model SM4520228K5G",
+    "importado": true,
+    "preco": 12500,
+    "qtd_estoque": 150
+  },
+  {
+    "_id": "63068f3b907ce7d528582023",
+    "id_prod": 136,
+    "nome": " AMD Radeon RX 6600 ",
+    "descricao": "XFX Speedster SWFT 210 AMD Core Gaming, 8GB GDDR6,RDNA 2 ",
+    "importado": true,
+    "preco": 3500,
+    "qtd_estoque": 150
+  },
+  {
+    "_id": "63068f3b907ce7d528582024",
+    "id_prod": 137,
+    "nome": "Smartphone Motorola Moto Edge 30 Pro,",
+    "descricao": "Moto Edge 5G, 12GB RAM, 256GB, Câmera Tripla 50MP, Tela Max Vision 6.7, Branco",
+    "importado": true,
+    "preco": 5800,
+    "qtd_estoque": 150
+  },
+  {
+    "_id": "632b9d67f4c790d2381a9ece",
+    "id_prod": 138,
+    "nome": "TESTE AMD Radeon RX 6600",
+    "descricao": "DESCRICAO TESTE",
+    "qtd_estoque": 2,
+    "preco": 100,
+    "importado": false,
+    "desconto": null
+  }
+]
