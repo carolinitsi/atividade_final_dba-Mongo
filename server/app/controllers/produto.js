@@ -5,7 +5,7 @@ const index = async (req, res) => {
     console.log(req.query)
     if (req.query.order) {
         let orderBy = req.query.order
-        let reverse = req.query.reverse ? true : false
+        let reverse = +req.query.reverse ? true : false
         listProds = await model.getAllProdutos(orderBy, reverse);
     } else if (req.query.field && req.query.search) {
         listProds = await model.getFiltredProdutos(req.query.field, req.query.search);
